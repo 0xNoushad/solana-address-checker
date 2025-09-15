@@ -7,6 +7,7 @@
 *.obj
 *.exe
 *.out
+.env
 
 # Editor/IDE files (optional, adjust for your editor)
 *.swp
