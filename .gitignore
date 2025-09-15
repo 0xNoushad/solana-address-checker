@@ -1,0 +1,18 @@
+# Build artifacts
+/build/
+/build/*
+
+# Temporary files
+*.o
+*.obj
+*.exe
+*.out
+
+# Editor/IDE files (optional, adjust for your editor)
+*.swp
+*.DS_Store
+.idea/
+.vscode/
+
+# Logs
+*.log
